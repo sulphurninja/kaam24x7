@@ -9,7 +9,6 @@ const ProductItem = ({product, handleCheck}) => {
     const { cart, auth } = state
 
    
-
     const adminLink = () => {
         return(
             <>
