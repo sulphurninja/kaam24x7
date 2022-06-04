@@ -1,6 +1,6 @@
 module.exports = {
     env: {
-        "BASE_URL": "http://localhost:3000",
+        "BASE_URL": "https://kaam24x7.herokuapp.com",
         "MONGODB_URL": "mongodb+srv://aditya4sure:RiseAbove@work.3smun.mongodb.net/Work?retryWrites=true&w=majority",
         "ACCESS_TOKEN_SECRET": "Dk8n4%Q_AYcSNDVmbt374PwDX9=G2N=?vE49RpvC",
         "REFRESH_TOKEN_SECRET": "5$ngjG%y7rhB*Ufm&A$XHFBY?BfT^W+f7a*K3@H@",
