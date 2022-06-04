@@ -36,27 +36,27 @@ export default function CategoriesBar () {
       <ul className={styles.categories}>
       
         <CategoryItem name="Home" emoji="⚡" link="/" is-active />
-        <CategoryItem   name="Men" emoji="👚" link="/?category=6288f106efb8cf1edc9c57fd" />
-        <CategoryItem name="Women" emoji="👠" link="/?category=6288f113efb8cf1edc9c57fe" />
+        <CategoryItem   name="Cleaning" emoji="🧹" link="/?category=629baa8890eb1b1f339d4524" />
+        <CategoryItem name="Mehndi" emoji="👧" link="/?category=629baa3e90eb1b1f339d451f" />
         <CategoryItem
-          name="Electronics"
-          emoji="👜"
-          link="/?category=6288f11defb8cf1edc9c57ff"
+          name="Photography"
+          emoji="📷"
+          link="/?category=629ba89990eb1b1f339d4519"
         />
         <CategoryItem
           name="Sofa"
           emoji="🛋️"
-          link="/?category=6288f126efb8cf1edc9c5800"
+          link="/?category=629b8a940cc29bc4533ef490"
         />
         <CategoryItem
-          name="Massage & Spa"
-          emoji="🎁"
-          link="/category/gifts_and_living"
+          name="Furnishing and Repair"
+          emoji="🪑"
+          link="/?category=62835561feab0226b0bbd278"
         />
         <CategoryItem
           name="About Us"
           emoji="💎"
-          link="/category/inspiration"
+          link="/"
         />
       </ul>
       <div className={styles.helpContainer}>
