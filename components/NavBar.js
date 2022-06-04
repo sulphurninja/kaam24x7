@@ -124,7 +124,7 @@ useEffect(() => {
 
     <div className={styles.headeralertnews}>
       
-        <b> Not Just "Urban" Serving every Household!</b>
+        <b> Not Just Urban Serving every Household!</b>
        
        
       
