@@ -44,8 +44,8 @@ export default function CategoriesBar () {
           link="/?category=6288f11defb8cf1edc9c57ff"
         />
         <CategoryItem
-          name="Household"
-          emoji="🤸"
+          name="Sofa"
+          emoji="🛋️"
           link="/?category=6288f126efb8cf1edc9c5800"
         />
         <CategoryItem
