@@ -130,7 +130,7 @@ const Cart = () => {
               onChange={e => setMobile(e.target.value)} />
             </form>
 
-            <h3>Total: <span className="text-danger">${total}</span></h3>
+            <h3>Total: <span className="text-danger">Rs.{total}</span></h3>
 
             
             <Link href={auth.user ? '#!' : '/signin'}>
