@@ -56,7 +56,7 @@ export default function CategoriesBar () {
         <CategoryItem
           name="Air Conditioner"
           emoji="🆒"
-          link="/"
+          link="/?category=629e56ebe19e0a2f74b91edb"
         />
              <CategoryItem
           name="About Us"
