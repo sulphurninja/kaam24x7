@@ -9,7 +9,7 @@ class MyDocument extends Document{
                     <meta name="description" content="Kaam 24x7 - Premium Services at Affordable costs!"/>
                     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" />
                     <link rel="manifest" href="/manifest.json" />
-                    <link rel="apple-touch-icon" href="/icon.png"></link>
+                    <link rel="apple-touch-icon" href="/icon.png" />
                     <meta name="theme-color" content="#fff" />
                     <Script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></Script>
                     <Script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"></Script>

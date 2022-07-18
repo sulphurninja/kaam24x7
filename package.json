@@ -17,7 +17,10 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.3.5",
     "next": "12.1.6",
+<<<<<<< HEAD
     "next-pwa": "^5.5.4",
+=======
+>>>>>>> 9f844cfd0e019f02ca3baac550916ef7f33d2a42
     "react": "18.1.0",
     "react-dom": "18.1.0",
     "react-icons": "^4.4.0",
